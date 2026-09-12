@@ -5,6 +5,8 @@
 
 ---
 
+LINK: https://meghnanotavailable.github.io/Pink-pixel-autopsy/
+
 ## 🔬 Project Overview
 
 **Pink Pixel Autopsy** is an interactive, browser-based comedic diagnostic application that scans imagery for suspiciously dangerous concentrations of hot pink pixels (`#FF1493` family) and calculates your "fictional brain cell casualties".
