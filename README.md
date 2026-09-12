@@ -1,5 +1,9 @@
 # 🩷 Pink Pixel Autopsy
 
+Names and Ids:
+Meghna R Kartha - @o8bg3836jO
+Aayisha Nizam - @di34ugf3c8
+
 > **Discover how many fictional brain cells your image or camera feed destroys in real time.**  
 > *⚠️ Medical Disclaimer: This questionable medical technology is completely fictional and designed purely for comedic entertainment.*
 
